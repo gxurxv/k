@@ -101,7 +101,7 @@ Time Zones:- {tom}
 Top Level Domain:- {lanester}
 wikipedia:- {wiki}</b>
 
-Gathered By 🇮🇳 @XnKiTKuMaR 🇮🇳</b>
+Gathered By @NVS_X_BOT </b>
 """
     
     
